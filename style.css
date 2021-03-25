@@ -23,9 +23,7 @@ table th {
     }
 
     /* Hide table header. */
-    table thead {
-        display:none
-    }
+
 
     /* Force table to not be like tables. */
     table tr {

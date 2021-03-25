@@ -28,7 +28,6 @@ table th {
     /* Force table to not be like tables. */
     table tr {
         display: block;
-        margin-bottom: 1em;
     }
 
     /* Behave like a "row" */
